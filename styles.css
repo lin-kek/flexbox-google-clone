@@ -116,8 +116,7 @@ body {
 .apps-menu {
   display: flex;
   flex-wrap: wrap;
-  width: 380px;
-  min-height: 300px;
+  width: 376px;
   background-color: #f1eff1;
   border: solid 1px #d6d6d6;
   position: absolute;
@@ -193,6 +192,6 @@ body {
   }
 
   .apps-menu {
-    width: 245px;
+    width: 244px;
   }
 }
